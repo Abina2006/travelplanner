@@ -6,7 +6,8 @@ Overall Vision
 
 The vision of GlobeTrotter is to become an intelligent, collaborative, and personalized travel companion that transforms trip planning into an engaging and stress-free experience. The platform empowers users to dream, design, and organize journeys with complete visibility, making travel planning as exciting as the journey itself.
 
-Mission
+mission of the appplication developed
+
 
 The mission of this project is to build a responsive, intuitive, and feature-rich travel planning application that:
 
