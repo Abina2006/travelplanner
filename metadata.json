@@ -1,0 +1,7 @@
+{
+  "name": "GlobalTrotters - Smart Trip Planner",
+  "description": "A high-end multi-city travel planning application featuring AI-powered city/activity discovery, visual itineraries, budget breakdowns, and public sharing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
